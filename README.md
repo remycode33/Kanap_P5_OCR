@@ -2,7 +2,13 @@
 
 ---
 
-## I - Context : 4th Project realized during my training in Web Development with OpenClassrooms
+## I - Links of the _mockup/rendering_ :
+
+1. _home page_ : [mockup-home-page](maquettes/Kanap-home1.pdf) ⇱
+2. _products page_ : [mockup-products-page](maquettes/Kanap-produit2.pdf) ⇱
+3. _cart page_ : [mockup-cart-page](maquettes/Kanap-panier3.pdf) ⇱
+
+## II - Context : 4th Project realized during my training in Web Development with OpenClassrooms
 
 ---
 
@@ -16,7 +22,7 @@ Once you are ready to order, you can fill the form with all information asked. I
 
 Then once it is validated, you will have your order number which will be displayed (coming from the backend).
 
-## II - Installation :
+## III - Installation :
 
 ---
 
